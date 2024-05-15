@@ -13,5 +13,7 @@ Vamos conectar nossas ideias e explorar juntos novas possibilidades!
 
 </div>
 
+
+
 > [!IMPORTANT]
 > O importante é se divertir porque a vida já é séria demais por si só e uma boa dose de diversão é o melhor remédio para enfrentar os desafios do dia a dia

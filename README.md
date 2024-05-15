@@ -13,18 +13,5 @@ Vamos conectar nossas ideias e explorar juntos novas possibilidades!
 
 </div>
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
+> O importante é se divertir porque a vida já é séria demais por si só e uma boa dose de diversão é o melhor remédio para enfrentar os desafios do dia a dia

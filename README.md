@@ -2,7 +2,7 @@
 ![Quarto Prota](https://github.com/Jullyene/Jullyene/assets/160196619/53a4c9d8-bab5-48a3-9976-57cd678f2ce1)
 
 <div>
-<a  href= "https://github.com/Jullyene"></a>
+<a  href= "[https://github.com/Jullyene](https://www.linkedin.com/in/jullyene-patta-ramos-8654b5230/)"></a>
 
 Sou apaixonada por tecnologia e estou em constante busca por conhecimento e desafios que me permitam crescer profissionalmente. Tenho dedicado meu tempo ao aprendizado de linguagens de programação como Java e C e ao desenvolvimento de habilidades em front-end, back-end, Unreal, Blender e Photoshop. Minha jornada é marcada pela criatividade e pelo desejo de transformar ideias em soluções concretas que tragam impacto positivo.
 

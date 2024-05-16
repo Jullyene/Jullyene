@@ -9,11 +9,12 @@ Acredito na importância do trabalho em equipe e na comunicação eficaz para o 
 
 Vamos conectar nossas ideias e explorar juntos novas possibilidades!
 
-
+</div>
 
 > [!IMPORTANT]
 > "O importante é se divertir porque a vida já é séria demais por si só e uma boa dose de diversão é o melhor remédio para enfrentar os desafios do dia a dia".
-
+> 
+<div>
 <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=Jullyene&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>    
-
 </div>
+

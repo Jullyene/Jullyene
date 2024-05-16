@@ -17,5 +17,7 @@ Vamos conectar nossas ideias e explorar juntos novas possibilidades!
 > "O importante é se divertir porque a vida já é séria demais por si só e uma boa dose de diversão é o melhor remédio para enfrentar os desafios do dia a dia".
 > 
  
+![88de348d-8a10-4360-a5d2-b9ed768a4e25](https://github.com/Jullyene/Jullyene/assets/160196619/ac553b76-ec54-4879-8004-304ed8df0b18)
 
 
+![renderimgmario](https://github.com/Jullyene/Jullyene/assets/160196619/b37f17bb-30e4-4d7c-a55f-e69f8ccef948)

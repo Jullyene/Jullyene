@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### Hi there 👋
 
 <!--
@@ -32,5 +32,3 @@ Vamos conectar nossas ideias e explorar juntos novas possibilidades!
 
 > [!IMPORTANT]
 > "O importante é se divertir porque a vida já é séria demais por si só e uma boa dose de diversão é o melhor remédio para enfrentar os desafios do dia a dia".
-> 
->>>>>>> 3867b01ff7dcb87668160a45df5896f3a962d254

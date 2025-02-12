@@ -1,33 +1,11 @@
+🚀 Sobre Mim
+<img src="https://img.shields.io/badge/Desenvolvedora%20Fullstack-%230A66C2?style=for-the-badge&logo=codeforces&logoColor=white" alt="Badge Fullstack"> Sou apaixonada por tecnologia e inovação, sempre em busca de desafios que impulsionem meu crescimento profissional. Atualmente, estudo **Java** e **C**, além de me especializar em **front-end**, **back-end**, **Unreal Engine**, **Blender** e **Photoshop**. Meu objetivo é transformar ideias criativas em soluções eficientes e impactantes.
+🖥️ Tecnologias & Ferramentas
 
-### Hi there 👋
+<div> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"> </div>
+📌 Acredito que colaboração e comunicação eficaz são essenciais para o sucesso de qualquer projeto. Estou sempre buscando aprimorar minhas habilidades e explorar novas oportunidades na tecnologia.
 
-<!--
-**Jullyene/Jullyene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 Vamos conectar?
+📂 Meu GitHub:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Prazer! Sou a Jullyene
-![Quarto Prota](https://github.com/Jullyene/Jullyene/assets/160196619/53a4c9d8-bab5-48a3-9976-57cd678f2ce1)
-
-<div>
-
-Sou apaixonada por tecnologia e estou em constante busca por conhecimento e desafios que me permitam crescer profissionalmente. Tenho dedicado meu tempo ao aprendizado de linguagens de programação como Java e C e ao desenvolvimento de habilidades em front-end, back-end, Unreal, Blender e Photoshop. Minha jornada é marcada pela criatividade e pelo desejo de transformar ideias em soluções concretas que tragam impacto positivo.
-
-Acredito na importância do trabalho em equipe e na comunicação eficaz para o sucesso de qualquer projeto. Sou um solucionador de problemas curioso e comprometido em entregar resultados de excelência. Busco constantemente desafios que me estimulem a crescer, tanto profissionalmente quanto pessoalmente, e estou aberto a novas oportunidades que me permitam expandir meus horizontes na área da tecnologia.
-
-Vamos conectar nossas ideias e explorar juntos novas possibilidades!
-
-
-</div>
-
-> [!IMPORTANT]
-> "O importante é se divertir porque a vida já é séria demais por si só e uma boa dose de diversão é o melhor remédio para enfrentar os desafios do dia a dia".
+💼 Meu LinkedIn:

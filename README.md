@@ -18,3 +18,14 @@ Aprendizado sobre Cloud Computing e Inteligência Artificial, explorando tecnolo
 #### 🎵 Construção de um Clone do Spotify | [Imersão Alura]
 
 Desenvolvimento de uma interface moderna e personalizada, aplicando CSS, JavaScript e React, além da adaptação de um design exclusivo trazendo um pouco da minha identidade.
+
+
+https://github.com/user-attachments/assets/98182b12-25e8-40b2-8b51-edf9b17dba66
+
+## 🛠️ Habilidades Técnicas
+Linguagens de Programação:
+
+<div> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </div>
+Desenvolvimento Web & Front-End:
+
+<div> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> </div>

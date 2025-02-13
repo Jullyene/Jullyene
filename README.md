@@ -32,10 +32,8 @@ Desenvolvimento de uma interface moderna e personalizada, aplicando CSS, JavaScr
 ### Portfólio de Projetos
 
 <a href="https://portifolio-jullyene.vercel.app" target="_blank">
-  <img src="https://github.com/user-attachments/assets/acb13903-492c-42e1-be31-6a6958f745b8" alt="Portfólio" style="width: 100%;">
+  <img src="https://github.com/user-attachments/assets/acb13903-492c-42e1-be31-6a6958f745b8" alt="Portfólio" style="width: 100%; border-radius: 10px;">
 </a>
-
-
 
 
 

@@ -29,6 +29,8 @@ Desenvolvimento de uma interface moderna e personalizada, aplicando CSS, JavaScr
 
 ## 🎯 Projetos Destacados
 
-Confira meu portifólio e conheça um pouco dos projetos que já fiz e participei em: portifolio-jullyene.vercel.app
+### Portfólio de Projetos
+
+[portifolio-jullyene.vercel.app]
 
 

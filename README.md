@@ -14,20 +14,20 @@ Ao longo da minha trajetória, participei de diversas imersões e bootcamps, sem
 
 Aprendizado sobre Cloud Computing e Inteligência Artificial, explorando tecnologias como AWS, Azure, Google Cloud e OpenAI API para construção de assistentes inteligentes.
 
+#### Tecnologias estudadas
 
+<div> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"> <img src="https://img.shields.io/badge/Claude-FFD700?style=for-the-badge&logo=anthropic&logoColor=black" alt="Claude"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"> </div>
 
 
 #### Construção de um Clone do Spotify | [Imersão Alura]
 
 Desenvolvimento de uma interface moderna e personalizada, aplicando CSS, JavaScript e React, além da adaptação de um design exclusivo trazendo um pouco da minha identidade.
 
+#### Tecnologias estudadas
+
+<div> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> </div>
+
 ![Ver Projetos](https://github.com/user-attachments/assets/db01758e-1212-4ee8-8ebe-745d24976e57)
 
 
-## 🛠️ Habilidades Técnicas
-Linguagens de Programação:
 
-<div> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </div>
-Desenvolvimento Web & Front-End:
-
-<div> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> </div>

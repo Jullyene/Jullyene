@@ -10,12 +10,14 @@ Ao longo da minha trajetória, participei de diversas imersões e bootcamps, sem
 
 ### 🔥 Experiências e Participações
 
-#### * Bootcamp MultiCloud e IA | [The Cloud Bootcamp]
+#### Bootcamp MultiCloud e IA | [The Cloud Bootcamp]
 
 Aprendizado sobre Cloud Computing e Inteligência Artificial, explorando tecnologias como AWS, Azure, Google Cloud e OpenAI API para construção de assistentes inteligentes.
 
 
-#### * Construção de um Clone do Spotify | [Imersão Alura]
+
+
+#### Construção de um Clone do Spotify | [Imersão Alura]
 
 Desenvolvimento de uma interface moderna e personalizada, aplicando CSS, JavaScript e React, além da adaptação de um design exclusivo trazendo um pouco da minha identidade.
 

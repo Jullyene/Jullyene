@@ -32,6 +32,11 @@ Desenvolvimento de uma interface moderna e personalizada, aplicando CSS, JavaScr
 ### Portfólio de Projetos
 
 <a href="https://portifolio-jullyene.vercel.app" target="_blank">
-  <img src="https://github.com/user-attachments/assets/acb13903-492c-42e1-be31-6a6958f745b8" alt="Portfólio" style="width: 100%; border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/acb13903-492c-42e1-be31-6a6958f745b8" alt="Portfólio" style="width: 100%;">
 </a>
+
+## 🌎 Vamos Conectar?
+
+[![Email](https://img.shields.io/badge/Email-jilesss9023Caju%40outlook.com-%23A9A9A9?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jilesss9023Caju@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jullyene%20Patta%20Ramos-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jullyene-patta-ramos-8654b5230)
 

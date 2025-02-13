@@ -1,6 +1,6 @@
 # Fala Galera! Prazer sou a Jullyene!
 
-![2](https://github.com/user-attachments/assets/e152243d-627b-4cf9-9a0d-111bdcde0dc0)
+![Ver Projetos](https://github.com/user-attachments/assets/db01758e-1212-4ee8-8ebe-745d24976e57)
 
 ## 📌 Sobre Mim
 Sou apaixonada por tecnologia e inovação, sempre buscando desafios que me permitam crescer e explorar novas possibilidades no mundo do desenvolvimento. Minha trajetória começou com curiosidade e vontade de entender como as coisas funcionam por trás da tela. Hoje, estou me especializando em Análise e Desenvolvimento de Sistemas, aprimorando minhas habilidades em Front-end, Back-end, DevOps, MultiCloud & IA e desenvolvimento de experiências interativas.
@@ -27,7 +27,8 @@ Desenvolvimento de uma interface moderna e personalizada, aplicando CSS, JavaScr
 
 <div> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"> </div>
 
-![Ver Projetos](https://github.com/user-attachments/assets/db01758e-1212-4ee8-8ebe-745d24976e57)
+## 🎯 Projetos Destacados
 
+Confira meu portifólio e conheça um pouco dos projetos que já fiz e participei em: portifolio-jullyene.vercel.app
 
 
